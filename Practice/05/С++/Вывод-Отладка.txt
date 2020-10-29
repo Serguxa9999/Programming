@@ -1,0 +1,15 @@
+﻿"ConsoleApplication5.exe" (Win32). Загружено "D:\FileSistemUser\Проекты\ConsoleApplication5\Debug\ConsoleApplication5.exe". Символы загружены.
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll". 
+"ConsoleApplication5.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll". 
+Поток 0x1254 завершился с кодом 0 (0x0).
+Программа "[5396] ConsoleApplication5.exe" завершилась с кодом 0 (0x0).

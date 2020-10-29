@@ -1,0 +1,5 @@
+﻿  ConsoleApplication7.cpp
+D:\FileSistemUser\Проекты\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(10,21): warning C4101: m: неиспользованная локальная переменная
+D:\FileSistemUser\Проекты\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(10,27): warning C4101: l: неиспользованная локальная переменная
+D:\FileSistemUser\Проекты\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(10,24): warning C4101: n: неиспользованная локальная переменная
+  ConsoleApplication7.vcxproj -> D:\FileSistemUser\Проекты\ConsoleApplication7\Debug\ConsoleApplication7.exe
