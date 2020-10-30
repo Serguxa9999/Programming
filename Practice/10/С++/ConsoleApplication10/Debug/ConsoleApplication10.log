@@ -1,3 +1,2 @@
 ﻿  ConsoleApplication10.cpp
-D:\FileSistemUser\Проекты\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(35,36): warning C4552: "<": результат выражения не используется
-D:\FileSistemUser\Проекты\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(34): error C4700: использована неинициализированная локальная переменная "x2"
+  ConsoleApplication10.vcxproj -> D:\FileSistemUser\Проекты\ConsoleApplication10\Debug\ConsoleApplication10.exe

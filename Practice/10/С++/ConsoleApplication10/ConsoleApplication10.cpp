@@ -23,19 +23,19 @@ int main()
                     if (r1 > pow(10, 15)) { cout << "Слишком большое r1" << endl; }
                     else if (r1 < -pow(10, 15)) { cout << "Слишком маленькое r1" << endl; }
                     else {
-                        if (l1 > r1) { cout << "l1 больше чем r1" << endl; }
-                        else {
-                            if (l2 > r2) { cout << "l2 больше чем r2" << endl; }
-                            else {
-                                // x1 < x2;
-                                //long long int s1[1 + r1 - l1];
-                                //long long int s2[1 + r2 - l2];
-                                x1 = s - x2;
-                                x1 < x2;
-                                x1 
-                                    ;
+                        if ((l1 <= r1) && (l2<=r2)){
+                            if ((l1 + l2 <= s) && (r1 + r2 >= s)) {
+                                x2 = s - l1;
+                                if ((x2 - r2) > 0) {
+                                    x1 = l1 + x2 - r2;
+                                    x2 = s - x1;
+                                    cout << x1 << " " << x2;
+                                }
+                                else if (x1 = l1) { cout << x1 << " " << x2 << endl; }
                             }
+                            else { cout << -1 << endl; }
                         }
+                        else { cout << "Неверные данные диапазона" << endl; }
                     }
 
                 }
