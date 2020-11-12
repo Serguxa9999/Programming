@@ -1,0 +1,4 @@
+﻿  ConsoleApplication23.cpp
+D:\FileSistemUser\Проекты\ConsoleApplication23\ConsoleApplication23\ConsoleApplication23.cpp(1,9): warning C4068: неизвестная прагма "first"
+D:\FileSistemUser\Проекты\ConsoleApplication23\ConsoleApplication23\ConsoleApplication23.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication23.vcxproj -> D:\FileSistemUser\Проекты\ConsoleApplication23\Debug\ConsoleApplication23.exe
