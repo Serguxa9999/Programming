@@ -1,0 +1,15 @@
+﻿  ConsoleApplication25.cpp
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(22,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(24,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(49,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(51,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(80,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(82,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(107,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(109,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(138,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(140,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(142,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(144,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\FileSistemUser\Проекты\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(224,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication25.vcxproj -> D:\FileSistemUser\Проекты\ConsoleApplication25\Debug\ConsoleApplication25.exe
