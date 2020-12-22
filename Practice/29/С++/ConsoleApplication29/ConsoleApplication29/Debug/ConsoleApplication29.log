@@ -1,0 +1,5 @@
+﻿  ConsoleApplication29.cpp
+D:\FileSistemUser\Проекты\ConsoleApplication29\ConsoleApplication29\ConsoleApplication29.cpp(7,16): error C3646: name: неизвестный спецификатор переопределения
+D:\FileSistemUser\Проекты\ConsoleApplication29\ConsoleApplication29\ConsoleApplication29.cpp(7,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\FileSistemUser\Проекты\ConsoleApplication29\ConsoleApplication29\ConsoleApplication29.cpp(19,8): error C2039: "name": не является членом "Student".
+D:\FileSistemUser\Проекты\ConsoleApplication29\ConsoleApplication29\ConsoleApplication29.cpp(6): message : см. объявление "Student"
