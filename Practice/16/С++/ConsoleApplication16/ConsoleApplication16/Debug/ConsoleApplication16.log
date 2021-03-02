@@ -1,0 +1,4 @@
+﻿  ConsoleApplication16.cpp
+D:\Programming\Practice\16\С++\ConsoleApplication16\ConsoleApplication16\ConsoleApplication16.cpp(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\Practice\16\С++\ConsoleApplication16\ConsoleApplication16\ConsoleApplication16.cpp(5,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ConsoleApplication16.vcxproj -> D:\Programming\Practice\16\С++\ConsoleApplication16\Debug\ConsoleApplication16.exe
